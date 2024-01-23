@@ -1,7 +1,7 @@
 Video Tutorial
 --------------
 
-For a visual guide, check out my YouTube video on how to run this bot: (soon)
+For a visual guide, check out my YouTube video on how to run this bot: ((https://youtu.be/MdJZmnHjRhY?si=RQzQSYSNztIhP3W4))
 
 How to connect frontend(react) to backend(fastapi)
 ---------------------------------------------
