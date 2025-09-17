@@ -1,8 +1,3 @@
-Video Tutorial
---------------
-
-For a visual guide, check out my YouTube video on how to run this bot: ((https://youtu.be/MdJZmnHjRhY?si=RQzQSYSNztIhP3W4))
-
 How to connect frontend(react) to backend(fastapi)
 ---------------------------------------------
 
@@ -74,7 +69,3 @@ How to connect frontend(react) to backend(fastapi)
         npm run dev
         ```
 11. **Enjoy!** Everything is installed🚀
-
-
-P.s. If you want, you can support me and my projects! 
-Patreon: https://www.patreon.com/not33
